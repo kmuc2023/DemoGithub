@@ -1,0 +1,9 @@
+CREAR la rama - git branch nombrerama
+ENTRAR a la rama  - git checkout nombrerama
+SUBO CAMBIO - git add .
+registrar cambio - git commit -m "blaalbalb"
+Subir a la rama xxx - git push
+cambiar de rama - git checkout nombrerama
+
+Traer/bajar cambios del remoto al local - git pull
+actualizar el reposito - git push
